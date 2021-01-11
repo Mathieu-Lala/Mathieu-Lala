@@ -3,7 +3,7 @@
 ![__](./img/__.png?raw=true)
 
 ```cpp
-int main() { return (**&*&**+(([]<auto T>(){ return []{ return T; }; }).operator()<1 << 0>()))(); }
+auto main() -> int { return (**&*&**+(([]<auto T>(){ return []{ return T; }; }).operator()<1 << 0>()))(); }
 ```
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Mathieu-Lala&show_icons=true)
@@ -18,53 +18,25 @@ int main() { return (**&*&**+(([]<auto T>(){ return []{ return T; }; }).operator
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mathieu-Lala&repo=workshop_cpp_templated_meta-prog)](https://github.com/anuraghazra/github-readme-stats)
 
-## What do I do ?
+## What do I do ? 🧑‍🔬
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathieu-Lala)](https://github.com/anuraghazra/github-readme-stats)
 
 ### What I will learn / practice in 2021
 
-- [ ] C++20
-- [ ] Vulkan
-- [ ] Unity
-- [ ] C#
-- [ ] Lua
-- [ ] Rust
-- [x] Typescript
-- [x] Deno
-- [x] GraphQL
-- [ ] Haskell
-- [ ] Docker
-- [ ] Kubernetes
+| **2021** 🤩      | **2020** 🤗            | **2019** 🤔  | **2018** 😵 |
+| ---------------- | ---------------------- | ------------ | ----------- |
+| - [ ] C++20      | C++20                  | C++          | C           |
+| - [ ] Vulkan     | OpenGL3                | C            | gcc         |
+| - [ ]            | CMake                  | PHP          | Bash        |
+| - [ ] C#         | Visual Studio          | MySQL        | Git         |
+| - [ ] Lua        | clang                  | HTML5 / CSS3 | Linux       |
+| - [ ] Rust       | conan                  | javascript   | Makefile    |
+| - [x] Typescript | Unity                  | IIS / apache |
+| - [x] Deno       | Node                   | Haskell      |
+| - [x] GraphQL    | Flutter                |
+| - [ ] Haskell    | Continuous Integration |
+| - [ ] Docker     |
+| - [ ] Kubernetes |
 
-### What I have learned in 2020
-
-1. C++20
-1. Visual Studio
-1. clang
-1. CMake
-1. Conan
-1. OpenGL3
-1. Node
-1. Flutter
-1. Continuous Integration
-
-### What I have learned in 2019
-
-1. C++
-1. C
-1. PHP
-1. MySQL
-1. HTML5 / CSS3
-1. javascript
-1. IIS / apache
-1. Haskell
-1. TCP / UDP
-
-### What I have learned in 2018
-
-1. C
-1. gcc
-1. Bash
-1. Git
-1. Linux
+// and many others things 😅
