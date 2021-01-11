@@ -1,15 +1,12 @@
 # Hello World 👋
 
+![__](./img/__.png?raw=true)
+
 ```cpp
 int main() { return (**&*&**+(([]<auto T>(){ return []{ return T; }; }).operator()<1 << 0>()))(); }
-// https://godbolt.org/z/onzz3K
 ```
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Mathieu-Lala&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathieu-Lala)](https://github.com/anuraghazra/github-readme-stats)
-
-![__](./img/__.png?raw=true)
 
 ## What I am working on 💻
 
@@ -22,6 +19,8 @@ int main() { return (**&*&**+(([]<auto T>(){ return []{ return T; }; }).operator
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mathieu-Lala&repo=workshop_cpp_templated_meta-prog)](https://github.com/anuraghazra/github-readme-stats)
 
 ## What do I do ?
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathieu-Lala)](https://github.com/anuraghazra/github-readme-stats)
 
 ### What I will learn / practice in 2021
 
