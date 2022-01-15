@@ -1,6 +1,6 @@
 # Hello World 👋
 
-![__](./img/__.png?raw=true)
+![__](img/dg0m3slfqez51.png?raw=true)
 
 ```cpp
 auto main() -> decltype(0) { return (**&*&**+(([]<auto T>(){ return []{ return T; }; }).operator()<1 << 0>()))(); }
@@ -8,9 +8,13 @@ auto main() -> decltype(0) { return (**&*&**+(([]<auto T>(){ return []{ return T
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Mathieu-Lala&show_icons=true)
 
+## What do I do ? 🧑‍🔬
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathieu-Lala)](https://github.com/anuraghazra/github-readme-stats)
+
 ## What I am working on 💻 (sometimes 😅)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mathieu-Lala&repo=EngineEngine)](https://github.com/Mathieu-Lala/EngineEngine)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mathieu-Lala&repo=Kawaii_Engine)](https://github.com/Mathieu-Lala/Kawaii_Engine)
 
 ## You may want to take a look at 👀
 
@@ -18,23 +22,18 @@ auto main() -> decltype(0) { return (**&*&**+(([]<auto T>(){ return []{ return T
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mathieu-Lala&repo=workshop_cpp_templated_meta-prog)](https://github.com/Mathieu-Lala/workshop_cpp_templated_meta-prog)
 
-## What do I do ? 🧑‍🔬
+### Quick knowledge recap
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathieu-Lala)](https://github.com/anuraghazra/github-readme-stats)
+| **2022** 🤯      | **2021** 🤩       | **2020** 🤗          | **2019** 🤔   | **2018** 😑  | **2017** 😵 |
+| ---------------- | ----------------- | -------------------- | ------------- | ------------ | ----------- |
+| - [] C++23       | C++20             | C++17                | C++           | WAMP / IIS   | C           |
+| - [] Rust        | Rust              | OpenGL               | Haskell       | HTML5 / CSS3 | gcc         |
+| - [] WebGPU      | Docker            | CMake                | ELF           | javascript   | Bash        |
+| - [] Kubernetes  | C# / Unity        | Node                 | VM            |              | Git         |
+| - [] Vulkan      | Typescript / Deno | clang                | Visual Studio |              | Linux       |
+| - [?] Blockchain | GraphQL           | Flutter              | conan         |              | Makefile    |
+|                  | CD                | CI                   |
+|                  | Arduino           | embedded / buildroot |
+|                  | VR                | Raspberry            |
 
-### What I will learn / practice in 2021
-
-| **2021** 🤩      | **2020** 🤗            | **2019** 🤔  | **2018** 😵 |
-| ---------------- | ---------------------- | ------------ | ----------- |
-| - [ ] C++20      | C++20                  | C++          | C           |
-| - [ ] Vulkan     | OpenGL3                | C            | gcc         |
-| - [ ] WebGPU     | CMake                  | PHP          | Bash        |
-| - [ ] Unity      | Visual Studio          | MySQL        | Git         |
-| - [x] Docker     | clang                  | HTML5 / CSS3 | Linux       |
-| - [ ] Rust       | conan                  | javascript   | Makefile    |
-| - [x] Typescript | Unity                  | IIS / apache |
-| - [x] Deno       | Node                   | Haskell      |
-| - [x] GraphQL    | Flutter                |
-| - [ ] Kubernetes | Continuous Integration |
-
-// and many others things 😅
+// and many others things 😅 but i keep it short
